@@ -38,6 +38,8 @@
 		<?php if(!empty($gardenia_options['footertext'])) { ?> 
             <?php echo esc_html($gardenia_options['footertext']);?>
         <?php } ?>
+        <br>
+        Jl. Bhayangkara II Gg. Selakopi I Rt. 02/Rw. 03 Sindangbarang Bogor 16117
         
 		<noscript><a href="<?php echo esc_url( __( 'https://wordpress.org/', 'gardenia' ) ); ?>"><?php printf( __( 'Powered by %s', 'gardenia' ), 'WordPress' ); ?></a> <?php _e('and','gardenia') ?>	<a href="<?php echo esc_url( __('http://fruitthemes.com/wordpress-themes/gardenia', 'gardenia' )); ?>" target="_blank"><?php _e('Gardenia','gardenia');?></a></noscript>	 
 
